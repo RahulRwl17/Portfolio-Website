@@ -1,0 +1,37 @@
+.logo{
+   display: flex;
+   font-size: 1.8rem;
+   font-weight:bold;
+   padding-left: 5rem;
+   text-align: center;
+   margin: auto;
+   text-decoration: none;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+.nav-link{
+    font-size: 18px;
+    font-weight: 500;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.nav-link :hover{
+    background-color:darkgray;
+}
+
+#nav{
+    justify-content:end;
+    text-align: center;
+}
+
+
+/* .btn{
+
+    border-radius: 0px;
+    display: block;
+} */
+
+/* 
+nav{
+    padding-bottom: 0;
+} */

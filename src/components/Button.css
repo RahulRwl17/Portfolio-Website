@@ -1,0 +1,29 @@
+#box-btn{
+
+    /* background: #615CFD; */
+    /* color: #fff; */
+    border-radius: 0px;
+    text-align: center;
+    /* color: #fff !important; */
+    display: inline-block;
+    padding: 10px 30px;
+    font-family: "Muli", sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    color: #615CFD;
+    border: 1px solid #615CFD;
+    text-transform: capitalize;
+    /* -webkit-border-radius: 0px;
+    -moz-border-radius: 0px;
+    text-transform: capitalize;
+    -webkit-transition: 0.5s;
+    -moz-transition: 0.5s;
+    -o-transition: 0.5s; */
+    transition: 0.5s;
+    cursor: pointer;
+}
+
+#box-btn:hover{
+    color: #fff;
+    background-color: #615CFD;
+}
