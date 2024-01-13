@@ -1,27 +1,39 @@
 .logo{
-   display: flex;
-   font-size: 1.8rem;
-   font-weight:bold;
-   padding-left: 5rem;
+   font-size: 26px;
+   font-weight:bolder;
+   /* padding-left: 5rem; */
    text-align: center;
-   margin: auto;
    text-decoration: none;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
 }
 
 .nav-link{
-    font-size: 18px;
+    font-size: 17px;
     font-weight: 500;
-    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #000000;
+    opacity: 1;
+    font-family: "Muli", sans-serif;
+}
+
+.nav-item{
+    padding-top: 0.7rem;
+    padding-bottom: 0.7rem;
+    padding-left: 20px;
+    padding-right: 20px;
 }
 
 .nav-link :hover{
     background-color:darkgray;
+    text-decoration: underline #615CFD;
 }
 
-#nav{
+/* #nav-menu{
     justify-content:end;
     text-align: center;
+} */
+
+#toggle-btn{
+    border: none;
 }
 
 

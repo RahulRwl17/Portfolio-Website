@@ -11,7 +11,7 @@ function About() {
         <div className="col-12 col-xl-6">
           <div className="container">
             <h3>About me</h3>
-            <p>
+            <p id="about-text">
               I am Rahul Rawal, a Post Graduate Student specializing in AI and
               ML. With a strong foundation in programming and a knack for data
               analysis, I'm passionate about leveraging AI and ML to drive

@@ -30,17 +30,6 @@
     margin-bottom: 30px;
 }
 
-#vl {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 10px; /* Adjust the height based on your requirements */
-  }
-  
-.vl {
-    border-left: 2px solid gray;
-    height: 50px;
-  }
 
 /* 
 @media (min-width: 768px) and (max-width: 991px) {

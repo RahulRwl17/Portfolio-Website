@@ -6,8 +6,8 @@ import "../components/Style.css";
 function Mainbody(props) {
   return (
     <div className="container" id="space">
-      <div class="container" id="vl">
-        <div class="vl"></div>
+      <div className="container" id="vl">
+        <div className="vl"></div>
       </div>
       <div className="row">
         <div className="col-xl-12">
